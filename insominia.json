@@ -1,0 +1,66 @@
+{
+  "_type": "export",
+  "__export_format": 4,
+  "__export_date": "2023-08-09T00:00:00.000Z",
+  "resources": [
+    {
+      "_id": "req_1",
+      "parentId": null,
+      "modified": 1677649424077,
+      "created": 1677649424077,
+      "url": "http://localhost:3001/api/users",
+      "name": "Get All Users",
+      "method": "GET",
+      "headers": [],
+      "parameters": [],
+      "body": {},
+      "authentication": {},
+      "metaSortKey": -1677649424077
+    },
+    {
+      "_id": "req_2",
+      "parentId": null,
+      "modified": 1677649461013,
+      "created": 1677649461013,
+      "url": "http://localhost:3001/api/thoughts",
+      "name": "Get All Thoughts",
+      "method": "GET",
+      "headers": [],
+      "parameters": [],
+      "body": {},
+      "authentication": {},
+      "metaSortKey": -1677649461013
+    },
+    {
+      "_id": "req_3",
+      "parentId": null,
+      "modified": 1677649461014,
+      "created": 1677649461014,
+      "url": "http://localhost:3001/api/users/:userId",
+      "name": "Get Single User",
+      "method": "GET",
+      "headers": [],
+      "parameters": [],
+      "body": {},
+      "authentication": {},
+      "metaSortKey": -1677649461014
+    },
+    {
+      "_id": "req_4",
+      "parentId": null,
+      "modified": 1677649461015,
+      "created": 1677649461015,
+      "url": "http://localhost:3001/api/thoughts/:thoughtId",
+      "name": "Get Single Thought",
+      "method": "GET",
+      "headers": [],
+      "parameters": [],
+      "body": {},
+      "authentication": {},
+      "metaSortKey": -1677649461015
+    }
+  ],
+  "sidebarSort": -1,
+  "sidebarCollapsed": false,
+  "_lastModified": 1677649461015
+}
